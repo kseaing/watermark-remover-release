@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "2.0",
+  "changelog": "去水印改为一步到位纹理重建，不再留下模糊块；规则格纹/织物修复更自然",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/kseaing/watermark-remover-release@main/app-release.apk"
+}
