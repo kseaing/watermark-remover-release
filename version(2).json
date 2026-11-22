@@ -1,0 +1,6 @@
+{
+  "versionCode": 10,
+  "versionName": "1.9",
+  "changelog": "修复更新检测：多CDN国内镜像自动切换、网络错误原因明确提示；背景修复泊松融合纹理更清晰",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/kseaing/watermark-remover-release@main/app-release.apk"
+}
