@@ -1,0 +1,6 @@
+{
+  "versionCode": 8,
+  "versionName": "1.7",
+  "changelog": "启用自动更新检测；去水印与背景修复拆分为独立按钮，可框选区域修复纹理",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/kseaing/watermark-remover-release@main/app-release.apk"
+}
