@@ -1,0 +1,6 @@
+{
+  "versionCode": 9,
+  "versionName": "1.8",
+  "changelog": "背景修复升级为泊松融合，纹理更清晰、边界无矩形痕迹；去水印与背景修复独立按钮",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/kseaing/watermark-remover-release@main/app-release.apk"
+}
